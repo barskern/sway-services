@@ -1,6 +1,4 @@
 services = [
-  'kanshi.service',
-  'oguri.service',
   'sway-session-pre.target',
   'sway-session.target',
   'sway.service',

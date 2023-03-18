@@ -1,5 +1,7 @@
 # sway-services
 
+**My personal adaptation of [xdbob's sway-services](https://github.com/xdbob/sway-services)**.
+
 A collection of tools, utilities and mostly unit files to handle a systemd-user
 sway session.
 
