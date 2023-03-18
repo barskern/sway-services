@@ -9,9 +9,7 @@ services = [
   'wayland-session.target',
 ]
 
-in_services = [
-  'swayidle.service',
-]
+in_services = []
 
 conf = configuration_data({
   'prefix': get_option('prefix')
